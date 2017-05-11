@@ -1,0 +1,25 @@
+[![Webmax logo](http://webmax.pt/wp-content/uploads/2016/10/webmax_logo.png)](http://www.webmax.pt)
+# **Change Log**
+# 
+> **Property:** *www.webmax.pt*
+
+
+> **Aplication**: Sage Retail WebMAx API
+
+# `[version 1.0.0] 21-04-2017`
+- Primeira versão estável
+
+#
+***
+#
+#
+Developers | Names 
+--- | ---
+01 | Paulo Santos
+02 | Luis Maximiano
+
+***webmax 2016***
+
+***Author*** Paulo Santos
+
+***email*** tm.paulo.santos@gmail.com
