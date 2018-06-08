@@ -12,7 +12,6 @@
 ***
 #
 #
-***webmax 2016***
 
 ***Author*** Paulo Santos
 
