@@ -1,4 +1,3 @@
-[![Webmax logo](http://webmax.pt/wp-content/uploads/2016/10/webmax_logo.png)](http://www.webmax.pt)
 # **Change Log**
 # 
 > **Property:** *www.webmax.pt*
@@ -13,11 +12,6 @@
 ***
 #
 #
-Developers | Names 
---- | ---
-01 | Paulo Santos
-02 | Luis Maximiano
-
 ***webmax 2016***
 
 ***Author*** Paulo Santos
