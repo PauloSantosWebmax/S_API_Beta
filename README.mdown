@@ -1,17 +1,3 @@
-# **Change Log**
-# 
-> **Property:** *www.webmax.pt*
-
-
-> **Aplication**: Sage Retail WebMAx API
-
-# `[version 1.0.0] 21-04-2017`
-- Primeira versão estável
-
-#
-***
-#
-#
 
 ***Author*** Paulo Santos
 
